@@ -44,12 +44,6 @@ With a common platform and single API in place for packaging, provisioning, and 
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
-* <a href="#about"><strong>What is Platform.sh?:</strong></a> Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante.
-* <a href="#about"><strong>What is Platform.sh?:</strong></a> Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante.
-* <a href="#about"><strong>What is Platform.sh?:</strong></a> Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante.
-* <a href="#about"><strong>What is Platform.sh?:</strong></a> Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante.
-* <a href="#about"><strong>What is Platform.sh?:</strong></a> Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante.
-
 <p align="center">
 <a href="https://youtube.com/watch?v=UM5hYTLs-UU"><img src="https://i3.ytimg.com/vi/UM5hYTLs-UU/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
 </p>
@@ -60,6 +54,41 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <h3 align="center"><strong>The workflow</strong></h3>
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+
+<h4 align="center"><strong>Infrastructure as code, managed services</strong></h4>
+<p align="center">
+<br />
+<a href="https://docs.platform.sh/languages/influxdb.html">
+    <img src="images/diamonds_bkg/Influx Data.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/mysql.html">
+    <img src="images/diamonds_bkg/mariaDB.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/mongodb.html">
+    <img src="images/diamonds_bkg/MongoDB.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/mysql.html">
+    <img src="images/diamonds_bkg/MySQL.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/postgresql.html">
+    <img src="images/diamonds_bkg/Postgresql.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/rabbitmq.html">
+    <img src="images/diamonds_bkg/RabbitMQ.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/redis.html">
+    <img src="images/diamonds_bkg/Redis.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/solr.html">
+    <img src="images/diamonds_bkg/solr.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/varnish.html">
+    <img src="images/diamonds_bkg/varnish.png" alt="Logo">
+</a>
+<br /><br />
+
+
+</p>
 
 <h3 align="center"><strong>A place to experiment and evolve your apps</strong></h3>
 
@@ -92,7 +121,29 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <a href="https://docs.platform.sh/languages/ruby.html">
     <img src="images/diamonds_bkg/Ruby.png" alt="Logo">
 </a>
-<br /><br />
+<br />
+<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>
+</p>
+
+<p align="center">
+<br />
+<a href="https://docs.platform.sh/languages/dotnet.html">
+    <img src="images/diamonds_bkg/ASP.Net Core.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/go.html">
+    <img src="images/diamonds_bkg/GoGopher.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/java.html">
+    <img src="images/diamonds_bkg/Java.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/lisp.html">
+    <img src="images/diamonds_bkg/Lisp.png" alt="Logo">
+</a>
+<br />
+<code>type: 'dotnet:6.0'</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<code>type: 'golang:1.19'</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<code>type: 'java:19'</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<code>type: 'lisp:2.1'</code>
 </p>
 
 <h3 align="center"><strong>Managing fleets of applications</strong></h3>
