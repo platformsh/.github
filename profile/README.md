@@ -2,25 +2,49 @@
 
 <p align="center">
 
+<h1 align="center">We're Platform.sh!<br /></h1>
+
 <a href="https://platform.sh">
     <img src="images/git-hub-welcome.png" alt="Logo">
 </a>
 
-<br /><br />
+<br />
 
-<h1 align="center">Welcome to Platform.sh!<br /></h1>
 
 </p>
 
-Platform.sh provides a solution that addresses the complexity of application delivery. It provides both stability and flexibility you would like to achieve through platform engineering, all with one unified, secure, enterprise-grade platform. 
+Platform.sh is a unified, secure, enterprise-grade platform for building, running and scaling web applications. We provide a solution that addresses the complexity of application delivery, something that provides both the stability and flexibility you would like to achieve with platform engineering, all with one unified, secure, enterprise-grade platform. 
 
 From our platform, you can standardized your application delivery across any architecture design, framework, or programming language, and easily enforce common compliance standards across them all. It's flexible enough to experiment with new features quickly on true staging environments, and promote them to production with a git merge. 
 
 With a common platform and single API in place for packaging, provisioning, and deploying applications, it's then possible to focus DevOps work on optimizing those apps. Whether that be application performance, or coordinating all of your operations, all for the purpose of minimizing the environmental impact of your organization's work. 
 
-Platform.sh is a unified, secure, enterprise-grade platform for building, running and scaling web applications. We’re the leader in Fleet Ops: Everything you need to manage your fleet of websites and apps is available from the start. Because infrastructure and workflows are handled from the start, apps just work, so teams can focus on what really matters: making faster changes, collaborating confidently, and scaling responsibly. Whether managing a fleet of ten or ten thousand sites and apps, Platform.sh is the Developer- preferred solution that scales right.
-
 Our key features include:
+
+<p align="center">
+<h2><strong>The workflow</strong></h2>
+</p>
+
+<p align="center">
+<h2><strong>A place to experiment and evolve your apps</strong></h2>
+</p>
+
+<p align="center">
+<h2><strong>Managing fleets of applications</strong></h2>
+</p>
+
+<p align="center">
+<h2><strong>Stability, security, and governance</strong></h2>
+
+</p>
+
+<p align="center">
+<h2><strong>Performance and optimization</strong></h2>
+</p>
+
+
+
+
 
 * **GitOps: Git as the source of truth**
 
