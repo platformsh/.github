@@ -21,26 +21,25 @@ With a common platform and single API in place for packaging, provisioning, and 
 
 Our key features include:
 
-<p align="center">
-<h2><strong>The workflow</strong></h2>
-</p>
+<h2 align="center"><strong>The workflow</strong></h2>
 
-<p align="center">
-<h2><strong>A place to experiment and evolve your apps</strong></h2>
-</p>
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
-<p align="center">
-<h2><strong>Managing fleets of applications</strong></h2>
-</p>
+<h2 align="center"><strong>A place to experiment and evolve your apps</strong></h2>
 
-<p align="center">
-<h2><strong>Stability, security, and governance</strong></h2>
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
-</p>
+<h2 align="center"><strong>Managing fleets of applications</strong></h2>
 
-<p align="center">
-<h2 align="center"><strong>Performance and optimization</strong></h2>
-</p>
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+
+<h4 align="center"><strong>Stability, security, and governance</strong></h3>
+
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+
+<h2 align="center"><strong>Performance and optimization</strong></h4>
+
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
 
 
