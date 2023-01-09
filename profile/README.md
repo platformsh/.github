@@ -94,37 +94,6 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
-<h4 align="center"><strong>Try new technologies, and deploy every kind of app from the same platform</strong></h4>
-<p align="center">
-<br />
-<a href="https://docs.platform.sh/languages/dotnet.html">
-    <img src="images/diamonds_bkg/ASP.Net Core.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/go.html">
-    <img src="images/diamonds_bkg/GoGopher.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/java.html">
-    <img src="images/diamonds_bkg/Java.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/lisp.html">
-    <img src="images/diamonds_bkg/Lisp.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/nodejs.html">
-    <img src="images/diamonds_bkg/Js.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/php.html">
-    <img src="images/diamonds_bkg/PHP.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/python.html">
-    <img src="images/diamonds_bkg/Python.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/ruby.html">
-    <img src="images/diamonds_bkg/Ruby.png" alt="Logo">
-</a>
-<br />
-<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>&nbsp&nbsp<code>type: 'dotnet:6.0'</code>
-</p>
-
 <p align="center">
 <br />
 <a href="https://docs.platform.sh/languages/dotnet.html">
@@ -145,6 +114,8 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <code>type: 'java:19'</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <code>type: 'lisp:2.1'</code>
 </p>
+
+<h4 align="center"><strong>Try new technologies, and deploy every kind of app from the same platform</strong></h4>
 
 <p align="center">
 <br />
