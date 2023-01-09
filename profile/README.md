@@ -46,7 +46,7 @@ With a common platform and single API in place for packaging, provisioning, and 
 <em>Click above to see how Platform.sh addresses the complexity of application delivery.</em>
 </p>
 
-<details>
+<details border="1px solid black">
 <summary><strong>The problem:</strong> what makes application delivery complex?</summary><br/>
 
 Today delivery means coordinating specialized teams of people, unique configuration, and dedicated tooling at each stage. 
@@ -69,10 +69,6 @@ A lot more time. Time that’s spent either building this platform to address al
 
 Platform.sh provides a solution that addresses the complexity of application delivery, strikes the balance of stability and flexibility you’re trying to achieve with an internal platform, and allows for more time to be spent on the applications themselves, with one unified, secure, enterprise-grade platform.
 
-<p align="center">
-    <img src="images/psh_workflow.png" width="40%" alt="Logo">
-</p>
-
 It’s an abstraction that only relies on Git - which you’re already using. 
 Commit your infrastructure and follow a few simple rules, and from it you get the packaging, provisioning and deploying stages of your workflow taken care of for all of your applications, plugged right into your existing pipelines.  
 
@@ -84,31 +80,31 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <h4 align="center"><strong>Infrastructure as code, managed services</strong></h4>
 <p align="center">
 <br />
-<a href="https://docs.platform.sh/languages/influxdb.html">
+<a href="https://docs.platform.sh/services/influxdb.html">
     <img src="images/diamonds_bkg/Influx Data.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/mysql.html">
+<a href="https://docs.platform.sh/services/mysql.html">
     <img src="images/diamonds_bkg/mariaDB.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/mongodb.html">
+<a href="https://docs.platform.sh/services/mongodb.html">
     <img src="images/diamonds_bkg/MongoDB.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/mysql.html">
+<a href="https://docs.platform.sh/services/mysql.html">
     <img src="images/diamonds_bkg/MySQL.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/postgresql.html">
+<a href="https://docs.platform.sh/services/postgresql.html">
     <img src="images/diamonds_bkg/Postgresql.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/rabbitmq.html">
+<a href="https://docs.platform.sh/services/rabbitmq.html">
     <img src="images/diamonds_bkg/RabbitMQ.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/redis.html">
+<a href="https://docs.platform.sh/services/redis.html">
     <img src="images/diamonds_bkg/Redis.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/solr.html">
+<a href="https://docs.platform.sh/services/solr.html">
     <img src="images/diamonds_bkg/solr.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/varnish.html">
+<a href="https://docs.platform.sh/services/varnish.html">
     <img src="images/diamonds_bkg/Varnish.png" alt="Logo">
 </a>
 <br /><br />
