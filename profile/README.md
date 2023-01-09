@@ -19,8 +19,7 @@
 <a href="#about"><strong>What is Platform.sh?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="#getting-started"><strong>How does it work?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="#migrate"><strong>Getting started</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#learn"><strong>Community</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#contribute"><strong>Learn more</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#contribute"><strong>Resources</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <br />
 </p>
 <hr>
@@ -34,7 +33,7 @@
 <a href="https://platform.sh/demo/"><img src="https://i3.ytimg.com/vi/ny2YeD6Qt3M/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
 </p>
 <p align="center">
-<em>Ut viverra orci neque, ac tempus felis convallis non.</em>
+<em>Click the thumbnail above for an overview of Platform.sh.</em>
 </p>
 
 From our platform, you can standardize your delivery across any architecture design, framework, or programming language, and easily enforce common compliance standards across them all. It's flexible enough to experiment with new features quickly on true staging environments, and promote them to production with a git merge. 
@@ -53,7 +52,9 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 
 <p align="center">
 <a href="https://youtube.com/watch?v=UM5hYTLs-UU"><img src="https://i3.ytimg.com/vi/UM5hYTLs-UU/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
-<em>Ut viverra orci neque, ac tempus felis convallis non.</em>
+</p>
+<p align="center">
+<em>Click the thumbnail to see how Platform.sh addresses the complexity of app delivery.</em>
 </p>
 
 <h3 align="center"><strong>The workflow</strong></h3>
