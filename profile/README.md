@@ -70,25 +70,25 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <br />
 <a href="https://docs.platform.sh/languages/dotnet.html">
     <img src="images/diamonds_bkg/ASP.Net Core.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://docs.platform.sh/languages/go.html">
     <img src="images/diamonds_bkg/GoGopher.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://docs.platform.sh/languages/java.html">
     <img src="images/diamonds_bkg/Java.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://docs.platform.sh/languages/lisp.html">
     <img src="images/diamonds_bkg/Lisp.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://docs.platform.sh/languages/nodejs.html">
     <img src="images/diamonds_bkg/Js.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://docs.platform.sh/languages/php.html">
     <img src="images/diamonds_bkg/PHP.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://docs.platform.sh/languages/python.html">
     <img src="images/diamonds_bkg/Python.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://docs.platform.sh/languages/ruby.html">
     <img src="images/diamonds_bkg/Ruby.png" alt="Logo">
 </a>
