@@ -88,33 +88,6 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 
 <details>
 <summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
-Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
-</details>
-<details>
-<summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
-Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
-</details>
-<details>
-<summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
-Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
-</details>
-<details>
-<summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
-Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
-</details>
-
-<br/>
-<p align="center">
-<a href="https://youtube.com/watch?v=UM5hYTLs-UU"><img src="https://i3.ytimg.com/vi/UM5hYTLs-UU/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
-</p>
-<p align="center">
-<em>Click the thumbnail to see how Platform.sh addresses the complexity of app delivery.</em>
-</p>
-
-
-
-
-<h3 align="center"><strong>A place to experiment and evolve your apps</strong></h3>
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
@@ -162,21 +135,27 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <code>type: 'ruby:3.2'</code>
 </p>
 
-<h3 align="center"><strong>Managing fleets of applications</strong></h3>
-
+</details>
+<details>
+<summary><strong>Managing fleets of applications</strong></summary><br/>
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
-
-<h3 align="center"><strong>Stability, security, and governance</strong></h3>
-
+</details>
+<details>
+<summary><strong>Stability, security, and governance</strong></summary><br/>
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
-
-<h3 align="center"><strong>Performance and optimization</strong></h3>
-
+</details>
+<details>
+<summary><strong>Performance and optimization</strong></summary><br/>
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+</details>
 
 
 
 
+
+
+
+<!-- 
 
 * **GitOps: Git as the source of truth**
 
@@ -192,42 +171,6 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 
 * **FleetOps: Fleet management platform**
 
-    Leverage our public API along with custom tools like [Source Operations](https://docs.platform.sh/configuration/app/source-operations.html) and [Activity Scripts](https://docs.platform.sh/integrations/activity.html) to [manage thousands of applications](https://youtu.be/MILHG9OqhmE) - their dependency updates, fresh content, and upstream code.
-
-
-To find out more, check out the demo below and go to our [website](https://platform.sh/product/).
-
-<br/>
-<p align="center">
-<a href="https://platform.sh/demo/"><img src="https://img.youtube.com/vi/ny2YeD6Qt3M/0.jpg" alt="The Platform.sh demo"></a>
-</p>
-
-<p align="center">
-<strong>Contribute, request a feature, or check out our resources</strong>
-<br />
-<br />
-<a href="https://platform.sh">
-    <img src="images/diamonds_bkg/ASP.Net Core.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://platform.sh">
-    <img src="images/diamonds_bkg/GoGopher.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://platform.sh">
-    <img src="images/diamonds_bkg/Java.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://platform.sh">
-    <img src="images/diamonds_bkg/Js.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://platform.sh">
-    <img src="images/diamonds_bkg/PHP.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://platform.sh">
-    <img src="images/diamonds_bkg/Python.png" alt="Logo">
-</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://platform.sh">
-    <img src="images/diamonds_bkg/Ruby.png" alt="Logo">
-</a>
-<br /><br />
-</p>
+    Leverage our public API along with custom tools like [Source Operations](https://docs.platform.sh/configuration/app/source-operations.html) and [Activity Scripts](https://docs.platform.sh/integrations/activity.html) to [manage thousands of applications](https://youtu.be/MILHG9OqhmE) - their dependency updates, fresh content, and upstream code. -->
 
 
