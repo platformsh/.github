@@ -42,6 +42,14 @@ With a common platform and single API in place for packaging, provisioning, and 
 
 <h2 align="center"><strong>How does it work?</strong></h2>
 
+<br/>
+<p align="center">
+<a href="https://youtube.com/watch?v=UM5hYTLs-UU"><img src="https://i3.ytimg.com/vi/UM5hYTLs-UU/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
+</p>
+<p align="center">
+<em>Click the thumbnail to see how Platform.sh addresses the complexity of app delivery.</em>
+</p>
+
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
 <details>
