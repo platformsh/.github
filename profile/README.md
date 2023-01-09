@@ -13,23 +13,52 @@
 
 </p>
 
+<h3 align="center"><strong>What is Platform.sh?</strong></h3>
+
 Platform.sh is a unified, secure, enterprise-grade platform for building, running and scaling web applications. We provide a solution that addresses the complexity of application delivery, something that provides both the stability and flexibility you would like to achieve with platform engineering, all with one unified, secure, enterprise-grade platform. 
 
 From our platform, you can standardized your application delivery across any architecture design, framework, or programming language, and easily enforce common compliance standards across them all. It's flexible enough to experiment with new features quickly on true staging environments, and promote them to production with a git merge. 
 
 With a common platform and single API in place for packaging, provisioning, and deploying applications, it's then possible to focus DevOps work on optimizing those apps. Whether that be application performance, or coordinating all of your operations, all for the purpose of minimizing the environmental impact of your organization's work. 
 
-Our key features include:
-
-<h2 align="center"><strong>The workflow</strong></h2>
+<h3 align="center"><strong>The workflow</strong></h3>
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
-<h2 align="center"><strong>A place to experiment and evolve your apps</strong></h2>
+<h3 align="center"><strong>A place to experiment and evolve your apps</strong></h3>
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
-<h2 align="center"><strong>Managing fleets of applications</strong></h2>
+<h4 align="center"><strong>Try new technologies, and deploy every kind of app from the same platform</strong></h4>
+<p align="center">
+<br />
+<a href="https://docs.platform.sh/languages/dotnet.html">
+    <img src="images/diamonds_bkg/ASP.Net Core.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/dotnet.html">
+    <img src="images/diamonds_bkg/GoGopher.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/dotnet.html">
+    <img src="images/diamonds_bkg/Java.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/dotnet.html">
+    <img src="images/diamonds_bkg/Js.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/dotnet.html">
+    <img src="images/diamonds_bkg/PHP.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/dotnet.html">
+    <img src="images/diamonds_bkg/Python.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/dotnet.html">
+    <img src="images/diamonds_bkg/Ruby.png" alt="Logo">
+</a>
+<br />
+<em>Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida.</em>
+<br /><br />
+</p>
+
+<h3 align="center"><strong>Managing fleets of applications</strong></h3>
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
@@ -37,7 +66,7 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
-<h4 align="center"><strong>Performance and optimization</strong></h4>
+<h3 align="center"><strong>Performance and optimization</strong></h3>
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
