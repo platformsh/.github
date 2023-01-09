@@ -146,6 +146,27 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <code>type: 'lisp:2.1'</code>
 </p>
 
+<p align="center">
+<br />
+<a href="https://docs.platform.sh/languages/nodejs.html">
+    <img src="images/diamonds_bkg/Js.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/php.html">
+    <img src="images/diamonds_bkg/PHP.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/python.html">
+    <img src="images/diamonds_bkg/Python.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/ruby.html">
+    <img src="images/diamonds_bkg/Ruby.png" alt="Logo">
+</a>
+<br />
+<code>type: 'nodejs:18'</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<code>type: 'php:8.2'</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<code>type: 'python:3.11'</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<code>type: 'ruby:3.2'</code>
+</p>
+
 <h3 align="center"><strong>Managing fleets of applications</strong></h3>
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
