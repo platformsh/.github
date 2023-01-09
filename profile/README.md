@@ -51,6 +51,15 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <em>Click the thumbnail to see how Platform.sh addresses the complexity of app delivery.</em>
 </p>
 
+<details>
+<summary><strong>The workflow</strong></summary><br/>
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+</details>
+<details>
+<summary><h3 align="center"><strong>The workflow</strong></h3></summary><br/>
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+</details>
+
 <h3 align="center"><strong>The workflow</strong></h3>
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
@@ -83,7 +92,7 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
     <img src="images/diamonds_bkg/solr.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://docs.platform.sh/languages/varnish.html">
-    <img src="images/diamonds_bkg/varnish.png" alt="Logo">
+    <img src="images/diamonds_bkg/Varnish.png" alt="Logo">
 </a>
 <br /><br />
 
@@ -93,6 +102,8 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <h3 align="center"><strong>A place to experiment and evolve your apps</strong></h3>
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+
+<h4 align="center"><strong>Try new technologies, and deploy every kind of app from the same platform</strong></h4>
 
 <p align="center">
 <br />
@@ -114,8 +125,6 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <code>type: 'java:19'</code>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <code>type: 'lisp:2.1'</code>
 </p>
-
-<h4 align="center"><strong>Try new technologies, and deploy every kind of app from the same platform</strong></h4>
 
 <p align="center">
 <br />
