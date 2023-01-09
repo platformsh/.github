@@ -39,7 +39,8 @@ With a common platform and single API in place for packaging, provisioning, and 
 <!-- HOW DOES IT WORK -->
 <h2 align="center"><strong>How does it work?</strong></h2>
 
-<h4 align="center"><strong>The problem: what makes application delivery complex?</strong></h4>
+<details>
+<summary><strong>The problem:</strong> what makes application delivery complex?</summary><br/>
 
 Today delivery means coordinating specialized teams of people, unique configuration, and dedicated tooling at each stage. 
 By connecting it all together, we’re aiming for a stable, reliable pipeline that keeps new features developing quickly, where we’re monitoring production continuously, and security requirements are enforced at every stage to keep the process compliant. 
@@ -51,6 +52,8 @@ But this isn’t a small task, because doing DevOps has evolved too. There aren�
 
 And things will continue to change. More applications will depend on this internal platform - even those that use different frameworks and programming languages. That means more tools to connect into a common API, more concerns to understand and address, and more time. 
 A lot more time. Time that’s spent either building this platform to address all the scenarios that are hard to anticipate about how software changes, or time spent re-inventing the wheel endlessly creating variations of your pipeline for every new use case. 
+
+</details>
 
 <br/>
 <p align="center">
