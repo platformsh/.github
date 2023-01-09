@@ -16,31 +16,35 @@
 <p align="center">
 <strong>Contents</strong>
 <br /><br />
-<a href="#about"><strong>About</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#getting-started"><strong>Getting started</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#migrate"><strong>Migrate</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#learn"><strong>Learn</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#contribute"><strong>Contribute</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#about"><strong>What is Platform.sh?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#getting-started"><strong>How does it work?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#migrate"><strong>Getting started</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#learn"><strong>Community</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#contribute"><strong>Learn more</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <br />
 </p>
 <hr>
 
-<h3 align="center"><strong>What is Platform.sh?</strong></h3>
+<h2 align="center"><strong>What is Platform.sh?</strong></h2>
 
-[Platform.sh](https://platform.sh/product/) is a unified, secure, enterprise-grade platform for building, running and scaling web applications. We provide a solution that addresses the complexity of application delivery, something that provides both the stability and flexibility you would like to achieve with platform engineering, all with one unified, secure, enterprise-grade platform. 
+[Platform.sh](https://platform.sh/product/) is a unified, secure, enterprise-grade platform for building, running and scaling web applications. We provide a solution that addresses the complexity of application delivery, providing both the stability and flexibility you would like to achieve with platform engineering. 
 
 <br/>
 <p align="center">
 <a href="https://platform.sh/demo/"><img src="https://i3.ytimg.com/vi/ny2YeD6Qt3M/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
 </p>
 
-From our platform, you can standardized your application delivery across any architecture design, framework, or programming language, and easily enforce common compliance standards across them all. It's flexible enough to experiment with new features quickly on true staging environments, and promote them to production with a git merge. 
+From our platform, you can standardize your delivery across any architecture design, framework, or programming language, and easily enforce common compliance standards across them all. It's flexible enough to experiment with new features quickly on true staging environments, and promote them to production with a git merge. 
 
 With a common platform and single API in place for packaging, provisioning, and deploying applications, it's then possible to focus DevOps work on optimizing those apps. Whether that be application performance, or coordinating all of your operations, all for the purpose of minimizing the environmental impact of your organization's work.
 
-<br/>
+<h2 align="center"><strong>How does it work?</strong></h2>
+
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+
+
 <p align="center">
-<a href="https://platform.sh/demo/"><img src="https://i3.ytimg.com/vi/UM5hYTLs-UU/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
+<a href="https://youtube.com/watch?v=UM5hYTLs-UU"><img src="https://i3.ytimg.com/vi/UM5hYTLs-UU/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
 </p>
 
 <h3 align="center"><strong>The workflow</strong></h3>
@@ -57,26 +61,27 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <a href="https://docs.platform.sh/languages/dotnet.html">
     <img src="images/diamonds_bkg/ASP.Net Core.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/dotnet.html">
+<a href="https://docs.platform.sh/languages/go.html">
     <img src="images/diamonds_bkg/GoGopher.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/dotnet.html">
+<a href="https://docs.platform.sh/languages/java.html">
     <img src="images/diamonds_bkg/Java.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/dotnet.html">
+<a href="https://docs.platform.sh/languages/lisp.html">
+    <img src="images/diamonds_bkg/Lisp.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh/languages/nodejs.html">
     <img src="images/diamonds_bkg/Js.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/dotnet.html">
+<a href="https://docs.platform.sh/languages/php.html">
     <img src="images/diamonds_bkg/PHP.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/dotnet.html">
+<a href="https://docs.platform.sh/languages/python.html">
     <img src="images/diamonds_bkg/Python.png" alt="Logo">
 </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh/languages/dotnet.html">
+<a href="https://docs.platform.sh/languages/ruby.html">
     <img src="images/diamonds_bkg/Ruby.png" alt="Logo">
 </a>
-<br />
-<em>Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida.</em>
 <br /><br />
 </p>
 
