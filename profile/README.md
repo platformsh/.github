@@ -1,18 +1,13 @@
-
-
+<!-- HEADER -->
 <p align="center">
-
 <h1 align="center">We're Platform.sh!<br /></h1>
-
 <a href="https://platform.sh">
     <img src="images/git-hub-welcome.png" alt="Logo">
 </a>
-
 <br />
-
-
 </p>
 
+<!-- TABLE OF CONTENTS -->
 <p align="center">
 <strong>Contents</strong>
 <br /><br />
@@ -24,6 +19,7 @@
 </p>
 <hr>
 
+<!-- WHAT IS PLATFORM.SH -->
 <h2 align="center"><strong>What is Platform.sh?</strong></h2>
 
 [Platform.sh](https://platform.sh/product/) is a unified, secure, enterprise-grade platform for building, running and scaling web applications. We provide a solution that addresses the complexity of application delivery, providing both the stability and flexibility you would like to achieve with platform engineering. 
@@ -40,21 +36,36 @@ From our platform, you can standardize your delivery across any architecture des
 
 With a common platform and single API in place for packaging, provisioning, and deploying applications, it's then possible to focus DevOps work on optimizing those apps. Whether that be application performance, or coordinating all of your operations, all for the purpose of minimizing the environmental impact of your organization's work.
 
+<!-- HOW DOES IT WORK -->
 <h2 align="center"><strong>How does it work?</strong></h2>
 
 <h4 align="center"><strong>The problem: what makes application delivery complex?</strong></h4>
 
-Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+Today delivery means coordinating specialized teams of people, unique configuration, and dedicated tooling at each stage. 
+By connecting it all together, we’re aiming for a stable, reliable pipeline that keeps new features developing quickly, where we’re monitoring production continuously, and security requirements are enforced at every stage to keep the process compliant. 
+That maturity would allow us to clearly define and trust our non-failing system
+while understanding when and how to respond to failure scenarios, including those we don’t yet test against. 
+But part of what makes this complex is that the pipeline doesn’t just need to be stable, but also flexible. 
+An essential expert at the packaging stage may leave your organization, or the tool you depend on becomes obsolete, and how you piece together each stage needs to remain flexible enough to adapt. 
+Enforcing compliance standards is one thing, but modifying a pipeline for new requirements is another - needing to switch to a different cloud provider, or simultaneously maintain apps on AWS but others on Google Cloud for example. 
+Balancing stability and flexibility with this complexity leads teams to see there’s some standardization badly needed here.
+This means abstracting away tooling, cloud providers, secrets - everything - into a generalized internal platform. Something that’s stable, but adapts to the reality of evolving dependencies, on-boarding and off-boarding, and how the needs of the business are going to inevitably change over time. 
+But this isn’t a small task, because doing DevOps has evolved too. There aren’t a handful of concepts your teams need to understand to be both stable and flexible, there are hundreds - and best case there will still be 10 to 15 integrations per pipeline you’ll need to manage forever.
+And things will continue to change. More applications will depend on this internal platform - even those that use different frameworks and programming languages. That means more tools to connect into a common API, more concerns to understand and address, and more time. 
+A lot more time. Time that’s spent either building this platform to address all the scenarios that are hard to anticipate about how software changes, or time spent re-inventing the wheel endlessly creating variations of your pipeline for every new use case. 
 
 <br/>
 <p align="center">
 <a href="https://youtube.com/watch?v=UM5hYTLs-UU"><img src="https://i3.ytimg.com/vi/UM5hYTLs-UU/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
 </p>
 <p align="center">
-<em>Click the thumbnail to see how Platform.sh addresses the complexity of app delivery.</em>
+<em>Click above to see how Platform.sh addresses the complexity of application delivery.</em>
 </p>
 
-Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+All that time could be better spent on applications, and Platform.sh provides a solution that addresses this complexity, and strikes this balance of stability and flexibility you’re trying to achieve internally, with a one unified, secure, enterprise-grade platform. 
+
+It’s an abstraction that only relies on Git - which you’re already using. 
+Commit your infrastructure and follow a few simple rules, and from it you get the packaging, provisioning and deploying stages of your workflow taken care of for all of your applications, plugged right into your existing pipelines.  
 
 <details>
 <summary><strong>The workflow</strong></summary><br/>
