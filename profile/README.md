@@ -32,6 +32,8 @@
 <br/>
 <p align="center">
 <a href="https://platform.sh/demo/"><img src="https://i3.ytimg.com/vi/ny2YeD6Qt3M/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
+</p>
+<p align="center">
 <em>Ut viverra orci neque, ac tempus felis convallis non.</em>
 </p>
 
