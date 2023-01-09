@@ -18,8 +18,8 @@
 <br /><br />
 <a href="#about"><strong>What is Platform.sh?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="#getting-started"><strong>How does it work?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#migrate"><strong>Getting started</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#contribute"><strong>Resources</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#getting-started"><strong>Getting started</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#resources"><strong>Resources</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <br />
 </p>
 <hr>
@@ -157,7 +157,9 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 </details>
 
+<h2 align="center"><strong>Getting started</strong></h2>
 
+<h2 align="center"><strong>Resources</strong></h2>
 
 
 
