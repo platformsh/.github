@@ -16,8 +16,8 @@
 <p align="center">
 <strong>Contents</strong>
 <br /><br />
-<a href="#about"><strong>What is Platform.sh?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#getting-started"><strong>How does it work?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#what-is-platformsh"><strong>What is Platform.sh?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#how-does-it-work"><strong>How does it work?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="#getting-started"><strong>Getting started</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="#resources"><strong>Resources</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <br />
@@ -41,6 +41,10 @@ From our platform, you can standardize your delivery across any architecture des
 With a common platform and single API in place for packaging, provisioning, and deploying applications, it's then possible to focus DevOps work on optimizing those apps. Whether that be application performance, or coordinating all of your operations, all for the purpose of minimizing the environmental impact of your organization's work.
 
 <h2 align="center"><strong>How does it work?</strong></h2>
+
+<h4 align="center"><strong>The problem: what makes application delivery complex?</strong></h4>
+
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
 <br/>
 <p align="center">
