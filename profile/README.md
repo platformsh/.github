@@ -46,33 +46,6 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 
 <details>
 <summary><strong>The workflow</strong></summary><br/>
-Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
-</details>
-<details>
-<summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
-Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
-</details>
-<details>
-<summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
-Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
-</details>
-<details>
-<summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
-Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
-</details>
-<details>
-<summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
-Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
-</details>
-
-<p align="center">
-<a href="https://youtube.com/watch?v=UM5hYTLs-UU"><img src="https://i3.ytimg.com/vi/UM5hYTLs-UU/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
-</p>
-<p align="center">
-<em>Click the thumbnail to see how Platform.sh addresses the complexity of app delivery.</em>
-</p>
-
-<h3 align="center"><strong>The workflow</strong></h3>
 
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 
@@ -108,8 +81,38 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 </a>
 <br /><br />
 
-
 </p>
+
+</details>
+
+
+<details>
+<summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+</details>
+<details>
+<summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+</details>
+<details>
+<summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+</details>
+<details>
+<summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
+Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
+</details>
+
+<br/>
+<p align="center">
+<a href="https://youtube.com/watch?v=UM5hYTLs-UU"><img src="https://i3.ytimg.com/vi/UM5hYTLs-UU/maxresdefault.jpg" alt="The Platform.sh demo" width="50%"></a>
+</p>
+<p align="center">
+<em>Click the thumbnail to see how Platform.sh addresses the complexity of app delivery.</em>
+</p>
+
+
+
 
 <h3 align="center"><strong>A place to experiment and evolve your apps</strong></h3>
 
