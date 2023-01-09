@@ -52,12 +52,15 @@ Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravi
 <summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 </details>
+<details>
 <summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 </details>
+<details>
 <summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 </details>
+<details>
 <summary><strong>A place to experiment and evolve your apps</strong></summary><br/>
 Quisque tincidunt bibendum sollicitudin. Fusce felis massa, pulvinar vitae gravida ut, luctus nec ante. Fusce sed augue odio. Nullam vestibulum ut ex ac gravida. Nullam venenatis placerat orci, et consequat ante vestibulum eu. Ut viverra orci neque, ac tempus felis convallis non. Nunc pulvinar lectus vitae fringilla venenatis.
 </details>
