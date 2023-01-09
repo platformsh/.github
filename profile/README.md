@@ -3,7 +3,7 @@
 <p align="center">
 
 <a href="https://platform.sh">
-    <img src="git-hub-welcome.png" alt="Logo" width="50%">
+    <img src="images/git-hub-welcome.png" alt="Logo">
 </a>
 
 <br /><br />
@@ -16,6 +16,34 @@ Find out more [here](https://web-eur.cvent.com/event/f325cce5-c825-4a33-80c0-067
 
 See you there!
 
+</p>
+
+<p align="center">
+<strong>Contribute, request a feature, or check out our resources</strong>
+<br />
+<br />
+<a href="https://platform.sh">
+    <img src="images/diamonds_bkg/ASP.Net Core.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://platform.sh">
+    <img src="images/diamonds_bkg/GoGopher.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://platform.sh">
+    <img src="images/diamonds_bkg/Java.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://platform.sh">
+    <img src="images/diamonds_bkg/Js.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://platform.sh">
+    <img src="images/diamonds_bkg/PHP.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://platform.sh">
+    <img src="images/diamonds_bkg/Python.png" alt="Logo">
+</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://platform.sh">
+    <img src="images/diamonds_bkg/Ruby.png" alt="Logo">
+</a>
+<br /><br />
 </p>
 
 
