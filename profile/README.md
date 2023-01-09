@@ -39,7 +39,7 @@ Our key features include:
 </p>
 
 <p align="center">
-<h2><strong>Performance and optimization</strong></h2>
+<h2 align="center"><strong>Performance and optimization</strong></h2>
 </p>
 
 
