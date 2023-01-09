@@ -54,7 +54,7 @@ By connecting it all together, we’re aiming for a stable, reliable pipeline th
 That maturity would allow us to clearly define and trust our non-failing system while understanding when and how to respond to failure scenarios, including those we don’t yet test against. 
 
 <p align="center">
-    <img src="images/workflow.png" width="30%" alt="Logo">
+    <img src="images/workflow.png" width="40%" alt="Logo">
 </p>
 
 Balancing stability and flexibility with this complexity leads teams to see there’s some standardization badly needed here. This means abstracting away tooling, cloud providers, secrets - everything - into a generalized internal platform. Something that’s stable, but adapts to the reality of evolving dependencies, on-boarding and off-boarding, and how the needs of the business are going to inevitably change over time. 
@@ -70,7 +70,7 @@ A lot more time. Time that’s spent either building this platform to address al
 Platform.sh provides a solution that addresses the complexity of application delivery, strikes the balance of stability and flexibility you’re trying to achieve with an internal platform, and allows for more time to be spent on the applications themselves, with one unified, secure, enterprise-grade platform.
 
 <p align="center">
-    <img src="images/psh_workflow.png" width="30%" alt="Logo">
+    <img src="images/psh_workflow.png" width="40%" alt="Logo">
 </p>
 
 It’s an abstraction that only relies on Git - which you’re already using. 
