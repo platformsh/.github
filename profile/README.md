@@ -43,14 +43,12 @@ With a common platform and single API in place for packaging, provisioning, and 
 
 Today delivery means coordinating specialized teams of people, unique configuration, and dedicated tooling at each stage. 
 By connecting it all together, we’re aiming for a stable, reliable pipeline that keeps new features developing quickly, where we’re monitoring production continuously, and security requirements are enforced at every stage to keep the process compliant. 
-That maturity would allow us to clearly define and trust our non-failing system
-while understanding when and how to respond to failure scenarios, including those we don’t yet test against. 
-But part of what makes this complex is that the pipeline doesn’t just need to be stable, but also flexible. 
-An essential expert at the packaging stage may leave your organization, or the tool you depend on becomes obsolete, and how you piece together each stage needs to remain flexible enough to adapt. 
-Enforcing compliance standards is one thing, but modifying a pipeline for new requirements is another - needing to switch to a different cloud provider, or simultaneously maintain apps on AWS but others on Google Cloud for example. 
-Balancing stability and flexibility with this complexity leads teams to see there’s some standardization badly needed here.
-This means abstracting away tooling, cloud providers, secrets - everything - into a generalized internal platform. Something that’s stable, but adapts to the reality of evolving dependencies, on-boarding and off-boarding, and how the needs of the business are going to inevitably change over time. 
+That maturity would allow us to clearly define and trust our non-failing system while understanding when and how to respond to failure scenarios, including those we don’t yet test against. 
+
+Balancing stability and flexibility with this complexity leads teams to see there’s some standardization badly needed here. This means abstracting away tooling, cloud providers, secrets - everything - into a generalized internal platform. Something that’s stable, but adapts to the reality of evolving dependencies, on-boarding and off-boarding, and how the needs of the business are going to inevitably change over time. 
+
 But this isn’t a small task, because doing DevOps has evolved too. There aren’t a handful of concepts your teams need to understand to be both stable and flexible, there are hundreds - and best case there will still be 10 to 15 integrations per pipeline you’ll need to manage forever.
+
 And things will continue to change. More applications will depend on this internal platform - even those that use different frameworks and programming languages. That means more tools to connect into a common API, more concerns to understand and address, and more time. 
 A lot more time. Time that’s spent either building this platform to address all the scenarios that are hard to anticipate about how software changes, or time spent re-inventing the wheel endlessly creating variations of your pipeline for every new use case. 
 
