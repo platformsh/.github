@@ -6,7 +6,19 @@
 <br />
 </p>
 
+<p align="center">
+<strong>Contents</strong>
+<br /><br />
+<a href="#what-is-platformsh"><strong>What is Platform.sh?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#how-does-it-work"><strong>How does it work?</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#getting-started"><strong>Getting started</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#resources"><strong>Resources</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<br />
+
 [Platform.sh](https://platform.sh/product/) is a unified, secure, enterprise-grade platform for building, running and scaling web applications. We provide a solution that addresses the complexity of application delivery, providing both the stability and flexibility you would like to achieve with platform engineering. 
+
+</p>
+
 
 <br/>
 <p align="center">
