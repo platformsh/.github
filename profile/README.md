@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <p align="center">
 <a href="https://platform.sh">
-    <img src="images/git-hub-welcome.png" alt="Logo">
+    <img src="https://github.com/platformsh/.github/blob/main/profile/images/git-hub-welcome.png?raw=true" alt="Logo">
 </a>
 <br />
 </p>
